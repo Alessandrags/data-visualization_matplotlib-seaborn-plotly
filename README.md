@@ -1,2 +1,2 @@
 # data-visualization_matplotlib-seaborn-plotly
-Curso Alura: Data Visualization: criando gráficos com bibliotecas Python
+Curso Alura: Data Visualization criando gráficos com bibliotecas Python
